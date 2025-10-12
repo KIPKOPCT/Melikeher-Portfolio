@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1261.29 416.12">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #c7090d;
+        font-family: KunstlerScript, 'Kunstler Script';
+        font-size: 202.81px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #c7090d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #958792;
+        font-family: Poppins-SemiBold, Poppins;
+        font-size: 12px;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2-2">
+      <g>
+        <g>
+          <path class="cls-4" d="M637.64,52.77h0c50.88,0,92.12,41.24,92.12,92.12v126.35c0,50.88-41.24,92.12-92.12,92.12h0c-50.88,0-92.12-41.24-92.12-92.12v-126.35c0-50.88,41.24-92.12,92.12-92.12Z"/>
+          <g>
+            <g class="cls-1">
+              <text class="cls-2" transform="translate(519.72 169.95) scale(.98 1)"><tspan x="0" y="0">Me</tspan></text>
+            </g>
+            <g class="cls-1">
+              <text class="cls-2" transform="translate(532.59 259.71) scale(.98 1)"><tspan x="0" y="0">like</tspan></text>
+            </g>
+            <g class="cls-1">
+              <text class="cls-2" transform="translate(532.59 361.95) scale(.98 1)"><tspan x="0" y="0">her</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g>
+          <g class="cls-1">
+            <text class="cls-3" transform="translate(0 202.41)"><tspan x="0" y="0">THE FUSION OF DESIGN PRINCIPLES WITH</tspan></text>
+            <text class="cls-3" transform="translate(7.1 216.81)"><tspan x="0" y="0">UNPARALLELED VISUAL STORYTELLING.</tspan></text>
+          </g>
+          <g class="cls-1">
+            <text class="cls-3" transform="translate(1007.86 202.41)"><tspan x="0" y="0">I CRAFT DESIGN WHICH WILL ELEVATE YOUR</tspan></text>
+            <text class="cls-3" transform="translate(1064.64 216.81)"><tspan x="0" y="0">BRAND TO GLOBAL STAGE.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
