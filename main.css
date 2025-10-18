@@ -84,7 +84,11 @@ line-height:1.15;
     margin: 0 auto;
   }
 
-
+header {
+  background-color: rgb(131, 0, 0);
+  position: fixed;
+  z-index: 1000;
+}
 
 
 
@@ -1189,7 +1193,7 @@ color: white;
 @media (max-width: 767px) {
 
   header {
-      position: fixed; /* or fixed */
+    position: fixed; /* or fixed */
     flex-direction: column;
     align-items: center;
     padding: 10px 20px;
